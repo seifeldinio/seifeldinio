@@ -1,7 +1,7 @@
 I'm Seif Radwane! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-⚡ Crafting creative web experiences.
+Crafting creative web experiences. ⚡
 ------------------------------------
 
 I bring a keen eye for design and a knack for user experience. Passionate about crafting captivating and interactive web applications using ReactJS, Next.js, Tailwind CSS, Sass, JavaScript, and TypeScript.
