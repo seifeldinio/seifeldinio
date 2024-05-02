@@ -1,4 +1,4 @@
-I'm Seif Radwane! 👾![](https://64.media.tumblr.com/6dc7dc075af64fe5de8815019dc2b2d2/tumblr_mtlj3gCvqL1rsdpaso1_500.gifv)
+I'm Seif Radwane! 👾
 ====================================================================================================================================
 
 Crafting creative web experiences. ⚡
@@ -8,6 +8,8 @@ I bring a keen eye for design and a knack for user experience. Passionate about 
 
 * 🖥️  See my portfolio at 👉 [CLICK ME](http://seifradwane.com/)
 * ✉️  You can contact me at 👉 [hello@seifradwane.com](mailto:hello@seifradwane.com)
+
+![](https://64.media.tumblr.com/6dc7dc075af64fe5de8815019dc2b2d2/tumblr_mtlj3gCvqL1rsdpaso1_500.gifv)
 
 ### Skills
 
