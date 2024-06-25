@@ -4,7 +4,7 @@ I'm Seif Radwane! 👾
 Crafting creative web experiences. ⚡
 ------------------------------------
 
-I bring a keen eye for design and a knack for user experience. Passionate about crafting captivating and interactive web applications using ReactJS, Next.js, Tailwind CSS, Sass, JavaScript, and TypeScript.
+Product designer and UX engineer with an eye for detail, blending creativity and technical expertise to craft intuitive digital experiences that bridge business and user goals.
 
 * 🖥️  See my portfolio at 👉 [CLICK ME](http://seifradwane.com/)
 * ✉️  You can contact me at 👉 [hello@seifradwane.com](mailto:hello@seifradwane.com)
